@@ -1,5 +1,6 @@
 // ? Day 0: Hello, World.
 // >> Link: https://www.hackerrank.com/challenges/30-hello-world/problem?isFullScreen=true
+// % Language: C++
 
 #include <cmath>
 #include <cstdio>
